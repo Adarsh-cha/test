@@ -1,1 +1,1 @@
-<h1>Aadarsh</h1>
+<center>This text is centered</center>
